@@ -11,7 +11,7 @@
 #define INPUTWIDTH 100
 #define INPUTLIMIT 2000000000
 
-int SolveUsingGaussElimination();
+int SolveUsingGaussElimination(int matrix[N][N],int result[N]);
 
 int main(void) {
 
